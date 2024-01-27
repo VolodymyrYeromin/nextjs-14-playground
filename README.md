@@ -1,2 +1,2 @@
 # nextjs-14-playground
-Next.js 14 Playground
+Hello world! This is Next.js 14 Playground
